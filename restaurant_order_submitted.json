@@ -1,0 +1,22 @@
+{
+  "name": "restaurant_order",
+  "questions": [
+    {
+      "question": "Choose a dish (options: pizza, hamburger):",
+      "answer": "pizza",
+      "options": [
+        "pizza",
+        "hamburger"
+      ]
+    },
+    {
+      "question": "Choose toppings (options: olives, onions, tomatoes):",
+      "answer": "olives",
+      "options": [
+        "olives",
+        "onions",
+        "tomatoes"
+      ]
+    }
+  ]
+}
